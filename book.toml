@@ -1,0 +1,6 @@
+[book]
+authors = ["Carlos daniel Gomes Santana"]
+language = "pt-br"
+multilingual = false
+src = "src"
+title = "Lua - Iniciante 🌑"
